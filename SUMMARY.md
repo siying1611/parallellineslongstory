@@ -1,6 +1,7 @@
 # Table of contents
 
 * [《平行線》長篇小說](README.md)
+* [LICENSE](license.md)
 * [序章](prologue.md)
 * [第一章](ch01.md)
 * [第二章](ch02.md)
@@ -29,5 +30,4 @@
 * [第二十五章](ch25.md)
 * [第二十六章](ch26.md)
 * [第二十七章](ch27.md)
-* [LICENSE](license.md)
 
