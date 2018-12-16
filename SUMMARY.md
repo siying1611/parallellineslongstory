@@ -1,6 +1,6 @@
 # Table of contents
 
-* [parallellineslongstory](README.md)
+* [《平行線》長篇小說](README.md)
 * [prologue](prologue.md)
 * [ch01](ch01.md)
 * [ch02](ch02.md)
