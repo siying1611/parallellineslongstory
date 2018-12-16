@@ -1,4 +1,4 @@
-# LICENSE
+# 版權/LICENSE
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License
 
