@@ -9,4 +9,12 @@
 * [ch05](ch05.md)
 * [ch06](ch06.md)
 * [ch07](ch07.md)
+* [ch08](ch08.md)
+* [ch09](ch09.md)
+* [ch10](ch10.md)
+* [ch11](ch11.md)
+* [ch12](ch12.md)
+* [ch13](ch13.md)
+* [ch14](ch14.md)
+* [ch15](ch15.md)
 
