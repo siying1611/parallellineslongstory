@@ -29,4 +29,5 @@
 * [第二十五章](ch25.md)
 * [第二十六章](ch26.md)
 * [第二十七章](ch27.md)
+* [LICENSE](license.md)
 
