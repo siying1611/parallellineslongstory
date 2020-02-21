@@ -2,6 +2,7 @@
 
 * [《平行線》長篇小說](README.md)
 * [LICENSE](license.md)
+* [《平行線》角色名單](character_list.md)
 * [序章](prologue.md)
 * [第一章](ch01.md)
 * [第二章](ch02.md)
@@ -33,6 +34,6 @@
 * [第二十八章](ch28.md)
 * [第二十九章](ch29.md)
 * [第三十章](ch30.md)
-* [《平行線》角色名單](character_list.md)
 * [第三十一章](ch31.md)
+* [第三十二章](untitled.md)
 
