@@ -31,7 +31,7 @@
 | - | Ms Lai | 十 | 音樂 | IMC 之導師之一 |
 | - | Ms Li | 十三 | 英文 |  |
 | - | Ms Yip | 十九 | 英文 | 3A班班主任 |
-| - | Ms Chui | 三十四 | 歷史 |  |
+| - | Mr Smith | 三十四 | Eng. Lit. | NET teacher |
 
 ## 柏瑞書院 - 學生/老師（最後更新：第十五章）
 

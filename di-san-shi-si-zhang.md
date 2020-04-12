@@ -16,29 +16,31 @@ Rosanne 見著鄰座**又**坐了自己的位子和 Rebecca 共進午膳，已�
 
 二零零四年四月第一個星期五。
 
-午飯時間的鐘聲已響，只有惠雯就喜滋滋的拉著 Tina 步出了班房，中三甲班大部份的同學還在埋頭寫著筆記——剛剛歷史課，Ms Chui 口頭上說了一大堆 term essay 的要求，卻只在黑板上寫了零星的關鍵字和分數比例。大家得趕緊在記憶流失前，把一切記錄清楚。
+午飯時間的鐘聲已響，只有惠雯就喜滋滋的拉著 Tina 步出了班房，中三甲班大部份的同學還在埋頭寫著筆記——剛剛English Literature的課，Mr Smith（潔靈的其中一個NET teacher）口頭上說了一大堆 term essay 的要求，卻只在黑板上寫了零星的關鍵字和分數比例。大家得趕緊在記憶流失前，把一切記錄清楚。
 
-「」Rosanne
+「... ... 要分析的角色，Mr Smith剛才說了Napoleon, Snowball, Boxer, Benjamin，還有... ...？」Rosanne問軒嵐。
 
-「」軒嵐
+「Mollie.」
 
-「Thanks.」Rosanne
+「OK. Thanks.」
 
 重新檢查了一遍抄寫的內容，軒嵐把筆記本收起來，想起惠雯和 Tina 一早就故作神秘的吩咐她要乖乖坐在班房等著，她們正好就在這時回到班房來了——惠雯手裡提著一個四房紙盒，Tina把著一個紙袋，兩人很有儀式感的走到軒嵐的座位。
 
 「怎麼... ... 」正常軒嵐一臉疑惑時，惠雯把紙盒放在她桌上，小心翼翼地把盒子拆開——那是一個芝士蛋糕，上面以士多啤梨醬寫著一行斜體英文字：
 
-「Happy Birthday Jacky!」
+「Happy Birthday Jacky！」
 
 ！！！！！軒嵐嚇了一大跳。
 
 還沒來得及反應，Tina已經在上面插了一支小小的蠟蠋，擦火柴把它點亮，和惠雯兩人一起拍著手唱起生日歌來：
 
-「Happy Birtday to you. Happy Birtday to you...」
+> _Happy Birthday to you._  
+> _Happy Birthday to you..._
 
 一邊唱的時候，Annie和Mandy等和她們幾人熟稔的同學都跑了過來湊熱鬧。
 
-「Happy Birtday to Jacky~ Happy Birtday to you!」
+> _Happy Birthday to Jacky~_  
+> _Happy Birthday to you!_
 
 圍觀的同學拍著手，Tina催促道：「蠟燭還亮著，快點許願！」
 
@@ -96,7 +98,7 @@ Form 1 時還會見同學們鬧著玩地分享一盤食物，但自去年SARS（
 
 「很好。還有兩天，你就和我一樣歲數了，呵呵。」軒嵐當時覺得意外的是，原來惠雯是88年生的：「我應該是第一個在學校給你慶祝生日的人吧？」軒嵐的生日正好是兒童節，同時也幾乎年年都碰上清明節——那是不用上學的公眾假期。
 
-「的確是呢。誰會想到要提早給人慶生的。」
+「的確是呢。誰會想到要提早給人慶祝生日的。」
 
 .
 
