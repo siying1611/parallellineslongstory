@@ -18,7 +18,7 @@ Rosanne 見著鄰座**又**坐了自己的位子和 Rebecca 共進午膳，已�
 
 午飯時間的鐘聲已響，只有惠雯就喜滋滋的拉著 Tina 步出了班房，中三甲班大部份的同學還在埋頭寫著筆記——剛剛English Literature的課，Mr Smith（潔靈的其中一個NET teacher）口頭上說了一大堆 term essay 的要求，卻只在黑板上寫了零星的關鍵字和分數比例。大家得趕緊在記憶流失前，把一切記錄清楚。
 
-「... ... 要分析的角色，Mr Smith剛才說了Napoleon, Snowball, Boxer, Benjamin，還有... ...？」Rosanne問軒嵐。
+「... ... 要分析的角色，Mr Smith剛才說了Napoleon, Snowball, Boxer, Benjamin，還有... ...？」Rosanne問軒嵐——她們要分析的是政治寓言小說《Animal Farm》。
 
 「Mollie.」
 
