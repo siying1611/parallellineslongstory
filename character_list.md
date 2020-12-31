@@ -33,6 +33,7 @@
 | - | Ms Yip | 十九 | 英文 | 3A班班主任 |
 | - | Ms Sze | 三十 | 美術 | - |
 | - | Mr Smith | 三十四 | Eng. Lit. | NET teacher |
+| - | Ms Poon | 三十九 | 地理 |  |
 
 ## 柏瑞書院 - 學生/老師（最後更新：第十五章）
 
