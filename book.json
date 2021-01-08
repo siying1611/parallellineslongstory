@@ -1,5 +1,11 @@
 {
     "title": "平行線",
     "author": "思凝",
-    "language": "zh"
+    "language": "zh",
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "siying1611"
+        }
+    }
 }
