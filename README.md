@@ -2,7 +2,7 @@
 
 ## 搬家告示
 
-文稿已遷至作者[個人網站](http://siying1611.github.io/)，日後小說更新也會在網站張點。**此 Gitbook 網頁將不會再更新。**請更新你的bookmark。
+文稿已遷至作者[個人網站](http://siying1611.github.io/)，日後小說更新也會在網站張貼。**此 Gitbook 網頁將不會再更新。**請更新你的bookmark。
 
 ## 聲明
 
